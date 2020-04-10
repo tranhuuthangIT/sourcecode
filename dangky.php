@@ -1,4 +1,4 @@
 <?php
-  echo 'đăng ký';
+  echo 'login';
 
 ?>
