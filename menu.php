@@ -1,4 +1,4 @@
 <?php
-  echo 'menu';
+  echo 'Menu ok nha';
 
 ?>
